@@ -1,0 +1,5 @@
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\TipCalc\bin\Debug\TipCalc.UI.Android.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\TipCalc\bin\Debug\TipCalc.UI.Android.pdb
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\TipCalc\TipCalc.UI.Android\obj\Debug\TipCalc.UI.Android.csprojResolveAssemblyReference.cache
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\TipCalc\TipCalc.UI.Android\obj\Debug\TipCalc.UI.Android.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\TipCalc\TipCalc.UI.Android\obj\Debug\TipCalc.UI.Android.pdb

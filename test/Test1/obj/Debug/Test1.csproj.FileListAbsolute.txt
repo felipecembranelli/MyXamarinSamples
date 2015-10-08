@@ -1,0 +1,17 @@
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\bin\Debug\Test1.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\bin\Debug\Test1.pdb
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\bin\Debug\Test1.dll.mdb
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\bin\Debug\Test1.Test1.apk
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\bin\Debug\Test1.Test1-Signed.apk
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\Test1.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\Test1.pdb
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\android\bin\Test1.Test1.apk
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\layout\main.xml
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\values\strings.xml
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\R.cs.flag
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\test\Test1\obj\Debug\uploadflags.txt

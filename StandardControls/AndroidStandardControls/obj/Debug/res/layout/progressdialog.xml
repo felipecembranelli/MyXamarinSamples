@@ -1,0 +1,1 @@
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:padding="10dip" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:id="@+id/Text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Something is happening, and we're waiting..." /></LinearLayout>

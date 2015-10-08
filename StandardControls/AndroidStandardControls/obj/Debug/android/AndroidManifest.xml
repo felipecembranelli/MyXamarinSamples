@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.xamarin.samples.standardcontrols" android:versionCode="1" android:versionName="1.0">
+  <application android:label="StandardControls" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="StandardControls" android:name="standardcontrols.Home">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="GridView" android:name="standardcontrols.GridViewScreen" />
+    <activity android:label="Gallery" android:name="standardcontrols.GalleryScreen" />
+    <activity android:label="ImageView" android:name="standardcontrols.ImageViewScreen" />
+    <activity android:label="HorizontalScrollView" android:name="standardcontrols.HorizontalScrollViewScreen" />
+    <activity android:label="RadioGroup" android:name="standardcontrols.RadioGroupScreen" />
+    <activity android:label="RatingBar" android:name="standardcontrols.RatingBarScreen" />
+    <activity android:label="CheckBox" android:name="standardcontrols.CheckBoxScreen" />
+    <activity android:label="TableLayout" android:name="standardcontrols.TableLayoutScreen" />
+    <activity android:label="RelativeLayout" android:name="standardcontrols.RelativeLayoutScreen" />
+    <activity android:label="Tab Layout" android:theme="@android:style/Theme.NoTitleBar" android:name="standardcontrols.TabLayoutScreen" />
+    <activity android:name="standardcontrols.TabLayoutScreen_ArtistsActivity" />
+    <activity android:name="standardcontrols.TabLayoutScreen_AlbumsActivity" />
+    <activity android:name="standardcontrols.TabLayoutScreen_SongsActivity" />
+    <activity android:label="TimePickerDialog" android:name="standardcontrols.TimePickerDialogScreen" />
+    <activity android:label="DatePickerDialog" android:name="standardcontrols.DatePickerDialogScreen" />
+    <activity android:label="HorizontalLinearLayoutWeight" android:name="standardcontrols.HorizontalLinearLayoutWeightScreen" />
+    <activity android:label="LinearLayoutWeight" android:name="standardcontrols.LinearLayoutWeightScreen" />
+    <activity android:label="HorizontalLinearLayout" android:name="standardcontrols.HorizontalLinearLayoutScreen" />
+    <activity android:label="LinearLayout" android:name="standardcontrols.LinearLayoutScreen" />
+    <activity android:label="FrameLayout" android:name="standardcontrols.FrameLayoutScreen" />
+    <activity android:label="ScrollView" android:name="standardcontrols.ScrollViewScreen" />
+    <activity android:label="AutoCompleteTextView" android:name="standardcontrols.AutoCompleteTextViewScreen" />
+    <activity android:label="Spinner" android:name="standardcontrols.SpinnerScreen" />
+    <activity android:label="EditText" android:name="standardcontrols.EditTextScreen" />
+    <activity android:label="TextView" android:name="standardcontrols.TextViewScreen" />
+    <activity android:label="Button" android:name="standardcontrols.ButtonScreen" />
+    <activity android:label="ContextMenu" android:name="standardcontrols.ContextMenuScreen" />
+    <activity android:label="OptionsLongMenu" android:name="standardcontrols.OptionsLongMenuScreen" />
+    <activity android:label="OptionsMenu" android:name="standardcontrols.OptionsMenuScreen" />
+    <activity android:label="Alert" android:name="standardcontrols.AlertScreen" />
+    <activity android:label="Toast" android:name="standardcontrols.ToastScreen" />
+    <activity android:label="ProgressBar" android:name="standardcontrols.ProgressBarScreen" />
+    <activity android:label="ProgressDialog" android:name="standardcontrols.ProgressDialogScreen" />
+    <activity android:label="SeekBar" android:name="standardcontrols.SeekBarScreen" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.samples.standardcontrols.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.samples.standardcontrols" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-sdk android:minSdkVersion="8" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

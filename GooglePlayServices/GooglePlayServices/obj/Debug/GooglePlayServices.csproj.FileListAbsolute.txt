@@ -1,0 +1,7 @@
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\bin\Debug\GooglePlayServicesTest.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\bin\Debug\GooglePlayServicesTest.pdb
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\obj\Debug\GooglePlayServicesTest.dll
+C:\Users\feliperc\OneDrive\Public\Estudo\Xamarin\GooglePlayServices\GooglePlayServices\obj\Debug\GooglePlayServicesTest.pdb
